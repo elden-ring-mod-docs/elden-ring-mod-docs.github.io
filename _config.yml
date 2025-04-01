@@ -16,7 +16,7 @@
 title: 艾尔登法环mod文档
 description: 艾尔登法环mod文档
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://elden-ring-mod-docs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: elden-ring-mod-docs/elden-ring-mod-docs.github.io # for github-metadata
 
 permalink: pretty
