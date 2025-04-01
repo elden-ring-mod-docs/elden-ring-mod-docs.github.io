@@ -111,7 +111,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "anchor bilibili":
+  "作者B站":
     - "https://space.bilibili.com/255459684"
 
 # Makes Aux links open in a new tab. Default is false
