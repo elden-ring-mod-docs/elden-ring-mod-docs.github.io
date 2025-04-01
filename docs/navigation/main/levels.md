@@ -13,7 +13,6 @@ Sometimes you will want to create a page with many children. First, it is recomm
 ┌─ ...
 ├─ (Jekyll files)
 ├─ docs
-    ├─ configuration.md
     ├─ ui-components
         ├─ index.md (parent page)
         ├─ buttons.md
