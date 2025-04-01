@@ -20,3 +20,9 @@ permalink: /
 ## 1.游戏路径不能有中文
 ## 2.游戏启动程序的名字必须叫“eldenring.exe”(默认就是)
 ## 3.游戏启动程序(eldenring.exe)的上级目录必须叫“Game”
+
+
+
+---
+
+[elden ring mod decs repo]: https://github.com/elden-ring-mod-docs/elden-ring-mod-docs.github.io
