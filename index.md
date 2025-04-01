@@ -1,6 +1,6 @@
 ---
 title: 主页
-layout: 主页
+layout: home
 nav_order: 1
 description: "主页说明"
 permalink: /
