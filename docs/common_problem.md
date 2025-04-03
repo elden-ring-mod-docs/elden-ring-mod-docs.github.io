@@ -94,7 +94,7 @@ nav_order: 4
 
 > 常见于学习版steam无缝联机
 
-找到steam库中的`spacewar`，右键-属性-控制器-禁用steam输入，如果还不行，就选一个steam映射
+找到steam库中的`spacewar`，右键-属性-控制器-禁用steam输入，如果还不行，就在`控制器配置器`里选一个steam映射
 ![禁用steam输入.png](/assets/images/禁用steam输入.png)
 
 ---
