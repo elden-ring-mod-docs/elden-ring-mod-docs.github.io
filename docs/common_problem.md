@@ -35,6 +35,11 @@ nav_order: 4
 
 ---
 
+## This version of seamless co-op (1.x.x) is depreciated and requires an update.
+中文意思是**当前版本的无缝联机mod已经被弃用，需要更新到最新版**
+
+![无缝不是最新版.png](/assets/images/无缝不是最新版.png)
+
 ## Steam datagram relay error: k_ESteamNetworkingAvailability_Unknown
 
 大概意思是连接不上steam网络
