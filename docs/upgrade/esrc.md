@@ -1,6 +1,7 @@
 ---
-title: Q&A
-nav_order: 5
+title: 安装无缝(入门)
+nav_order: 2
+parent: 萌新进阶之路
 ---
 
 <details open markdown="block">

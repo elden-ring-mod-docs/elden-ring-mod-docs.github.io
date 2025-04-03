@@ -1,6 +1,7 @@
 ---
-title: Q&A
-nav_order: 5
+title: 安装mod引擎来启动无缝(进阶)
+nav_order: 3
+parent: 萌新进阶之路
 ---
 
 <details open markdown="block">
