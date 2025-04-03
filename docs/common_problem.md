@@ -31,7 +31,7 @@ nav_order: 4
 
 ![无缝没设置密码.png](/assets/images/无缝没设置密码.png)
 
-[//]: # (设置密码步骤参考：[安装无缝联机]&#40;{% link esrc.md %}&#41;)
+设置密码步骤参考：[安装无缝联机]({{site.baseurl}}/docs/upgrade/esrc/)
 
 ---
 
@@ -42,9 +42,7 @@ nav_order: 4
 
 如图所示 图片中出现的1.7.2就是代表当前版本
 
-[esrc.md](/docs/upgrade/esrc.md)
-
-[//]: # (下载最新版无缝参考：[安装无缝联机]&#40;{% link esrc.md %}&#41;)
+下载最新版无缝参考：[安装无缝联机]({{site.baseurl}}/docs/upgrade/esrc/)
 
 ---
 
