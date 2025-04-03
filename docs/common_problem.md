@@ -101,10 +101,12 @@ nav_order: 4
 
 ## Steam datagram relay error: k_ESteamNetworkingAvailability_Unknown
 
-{: .note }
-大概意思是连接不上steam网络
+{: .note-title }
+> 大概意思是
+>
+> 连接不上steam网络
 
-> 常见于正版无缝联机和学习版steam无缝联机玩家
+> 常见于正版无缝联机和学习版steam无缝联机玩家，旧版的局域网玩家也会遇到
 
 ![steamDB未知.jpg](/assets/images/steamDB未知.jpg)
 
