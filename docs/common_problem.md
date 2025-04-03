@@ -44,7 +44,7 @@ nav_order: 4
 
 [esrc.md](/docs/upgrade/esrc.md)
 
-下载最新版无缝参考：[安装无缝联机]({% link /docs/upgrade/esrc.md %})
+下载最新版无缝参考：[安装无缝联机]({% link docs/upgrade/esrc.md %})
 
 ---
 
