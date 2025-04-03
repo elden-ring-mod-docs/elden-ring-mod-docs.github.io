@@ -2,13 +2,15 @@
 title: 安装mod之前需要确认的事项
 nav_order: 2
 ---
-## 目录
+
+## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
    {:toc}
 
 ---
+
 ## 游戏路径不能有中文
 
 ![中文游戏路径.png](/assets/images/中文游戏路径.png)
