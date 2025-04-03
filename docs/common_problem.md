@@ -1,16 +1,16 @@
 ---
-title: Search
-nav_order: 7
+title: 常见问题
+nav_order: 3
 ---
 
-# Search
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
+<details open markdown="block">
+  <summary>
+    目录
+  </summary>
+  {: .text-delta }
 1. TOC
 {:toc}
+</details>
 
 ---
 
