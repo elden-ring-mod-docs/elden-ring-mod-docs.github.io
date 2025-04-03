@@ -1,5 +1,5 @@
 ---
-title: (入门)安装无缝
+title: (初阶)安装无缝
 nav_order: 2
 parent: 萌新进阶之路
 ---

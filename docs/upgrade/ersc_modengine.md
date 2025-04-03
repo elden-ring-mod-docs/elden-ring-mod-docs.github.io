@@ -1,5 +1,5 @@
 ---
-title: (进阶)安装mod引擎来启动无缝
+title: (高阶)安装mod引擎来启动无缝
 nav_order: 3
 parent: 萌新进阶之路
 ---
