@@ -1,6 +1,6 @@
 ---
-title: 无缝+法魂
-nav_order: 5
+title: 无缝+光荣商人
+nav_order: 2
 parent: (大成)利用mod引擎来整合无缝和其他mod
 ---
 
