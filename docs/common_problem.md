@@ -59,7 +59,7 @@ nav_order: 4
 
 确保文件中涉及到的dll文件都存在，最常见的就是`OnlineFix64.dll`文件被杀毒软件删了，
 需要加一下白名单，把这个文件重新拖进来，不知道如何操作可以参考这个空降链接：
-[法魂mod兼容无缝教程(含正版学习版)-授人以渔 【精准空降到 45:17】](https://www.bilibili.com/video/BV1cLieYtE5d/?t=2717)
+[法魂mod兼容无缝教程(含正版学习版)-授人以渔 【精准空降到 45:17】](https://www.bilibili.com/video/BV1cLieYtE5d/?t=2717){:target="_blank"}
 
 我这里只有一个dll，所以只需要确认这一个dll文件是否存在，如果你有多个，需要依次确认是否存在
 
