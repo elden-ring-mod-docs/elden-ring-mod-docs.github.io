@@ -8,6 +8,3 @@
     <p align="center"><strong><a href="https://just-the-docs.com/">See it in action!</a></strong></p>
     <br><br><br>
 </p>
-
-<p align="center">A video walkthrough of various Just the Docs features</p>
-
