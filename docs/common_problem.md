@@ -31,7 +31,7 @@ nav_order: 4
 
 ![无缝没设置密码.png](/assets/images/无缝没设置密码.png)
 
-[//]: # (todo 添加截图说明)
+设置密码步骤参考：[安装无缝联机]({% link /docs/upgrade/esrc.md %})
 
 ---
 
@@ -39,6 +39,12 @@ nav_order: 4
 中文意思是**当前版本的无缝联机mod已经被弃用，需要更新到最新版**
 
 ![无缝不是最新版.png](/assets/images/无缝不是最新版.png)
+
+[esrc.md](/docs/upgrade/esrc.md)
+
+下载最新版无缝参考：[安装无缝联机]({% link /docs/upgrade/esrc.md %})
+
+---
 
 ## Steam datagram relay error: k_ESteamNetworkingAvailability_Unknown
 
