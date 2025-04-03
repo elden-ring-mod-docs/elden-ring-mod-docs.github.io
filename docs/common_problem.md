@@ -68,6 +68,12 @@ nav_order: 4
 ![dlllist文件空行示范.png](/assets/images/dlllist文件空行示范.png)
 ❌错误示范
 
+---
+
+## 打上无缝之后手柄没有反应？
+> 常见于学习版steam无缝联机
+
+找到steam库中的`spacewar`，右键-属性-控制器-禁用steam输入，如果还不行，就选一个steam映射
 
 ---
 
@@ -82,3 +88,6 @@ nav_order: 4
 1. 用的加速器不行，比如steam++（有概率不行，最好换别的加速），我一般UU，很多加速器加速steam都是免费的
 2. 你是学习版，但是没有打联机补丁，直接安装了无缝联机mod，使用道具也会提示这个，学习版怎么无缝联机参考：[https://www.bilibili.com/video/BV1Ni421v71g](https://www.bilibili.com/video/BV1Ni421v71g){:target="_blank"}
 3. 你是学习版局域网联机，不建议使用，参考第二条的教程换成学习版steam联机
+> 怎么分辨我是不是学习版steam无缝联机？
+> 
+> 如果运行游戏的时候，steam库里面有一个叫`spacewar`的游戏在运行，那就是，否则不是
