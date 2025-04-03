@@ -6,10 +6,10 @@ nav_order: 2
 <details>
 <summary>游戏路径不能有中文</summary>
 
-![中文游戏路径.png](..%2Fassets%2Fimages%2F%E4%B8%AD%E6%96%87%E6%B8%B8%E6%88%8F%E8%B7%AF%E5%BE%84.png)
+![中文游戏路径.png](/assets%2Fimages%2F%E4%B8%AD%E6%96%87%E6%B8%B8%E6%88%8F%E8%B7%AF%E5%BE%84.png)
 ❌错误示范
 
-![英文游戏路径.png](..%2Fassets%2Fimages%2F%E8%8B%B1%E6%96%87%E6%B8%B8%E6%88%8F%E8%B7%AF%E5%BE%84.png)
+![英文游戏路径.png](./assets%2Fimages%2F%E8%8B%B1%E6%96%87%E6%B8%B8%E6%88%8F%E8%B7%AF%E5%BE%84.png)
 ✔正确示范
 
 </details>
@@ -20,7 +20,7 @@ nav_order: 2
 
 每个提醒背后都有故事🙂
 
-![游戏启动程序名.png](..%2Fassets%2Fimages%2F%E6%B8%B8%E6%88%8F%E5%90%AF%E5%8A%A8%E7%A8%8B%E5%BA%8F%E5%90%8D.png)
+![游戏启动程序名.png](assets%2Fimages%2F%E6%B8%B8%E6%88%8F%E5%90%AF%E5%8A%A8%E7%A8%8B%E5%BA%8F%E5%90%8D.png)
 
 </details>
 
