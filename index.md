@@ -6,7 +6,17 @@ description: "主页说明"
 permalink: /
 ---
 
-# 介绍
+<details open markdown="block">
+  <summary>
+    目录
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+
+## 介绍
 
 安装mod教程和安装过程中遇到的问题及解决方案（网站搭建中）
 
