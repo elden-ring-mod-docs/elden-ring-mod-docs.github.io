@@ -106,7 +106,7 @@ nav_order: 4
 >
 > 连接不上steam网络
 
-> 常见于正版无缝联机和学习版steam无缝联机玩家，旧版的局域网玩家也会遇到
+> 常见于正版无缝联机和学习版steam无缝联机玩家，旧版的学习版局域网玩家也会遇到
 
 ![steamDB未知.jpg](/assets/images/steamDB未知.jpg)
 
