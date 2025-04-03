@@ -31,31 +31,31 @@ parent: 萌新进阶之路
 N网地址会有mod详细介绍及说明，看不懂英文的话可以翻译着看
 
 压缩包解压出来之后的文件结构👇
-```text
-├─ersc_launcher.exe     无缝自带启动器
-└─SeamlessCoop/
-    ├─ersc.dll    无缝的代码逻辑核心文件
-    ├─ersc_settings.ini    无缝的配置文件
-    ├─crashpad/
-    │    └─crashpad_handler.exe    无缝崩溃时dump内存的
-    └─locale/    这个文件夹内是各国语言翻译
-         ├─arabic.json
-         ├─brazilian.json
-         ├─dutch.json
-         ├─english.json    英文
-         ├─finnish.json
-         ├─french.json
-         ├─german.json
-         ├─hungarian.json
-         ├─italian.json
-         ├─japanese.json
-         ├─koreana.json
-         ├─latam.json
-         ├─polish.json
-         ├─russian.json
-         ├─schinese.json    简体中文
-         ├─spanish.json
-         ├─tchinese.json    繁体中文
-         ├─thai.json
-         └─vietnamese.json
+```
+├─ ersc_launcher.exe     无缝自带启动器
+└─ SeamlessCoop/
+    ├─ ersc.dll    无缝的代码逻辑核心文件
+    ├─ ersc_settings.ini    无缝的配置文件
+    ├─ crashpad/
+    │    └─ crashpad_handler.exe    无缝崩溃时dump内存的
+    └─ locale/    这个文件夹内是各国语言翻译
+         ├─ arabic.json
+         ├─ brazilian.json
+         ├─ dutch.json
+         ├─ english.json    英文
+         ├─ finnish.json
+         ├─ french.json
+         ├─ german.json
+         ├─ hungarian.json
+         ├─ italian.json
+         ├─ japanese.json
+         ├─ koreana.json
+         ├─ latam.json
+         ├─ polish.json
+         ├─ russian.json
+         ├─ schinese.json    简体中文
+         ├─ spanish.json
+         ├─ tchinese.json    繁体中文
+         ├─ thai.json
+         └─ vietnamese.json
 ```
