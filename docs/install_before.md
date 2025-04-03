@@ -6,27 +6,13 @@ nav_order: 2
 # 安装mod之前需要确认的事项
 {: .no_toc }
 
-## Table of contents
+## 目录
 {: .no_toc .text-delta }
 
 1. TOC
    {:toc}
 
 ---
-
-# Typography
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-   {:toc}
-
----
-## test
-
-## test01
 
 ## 游戏路径不能有中文
 
