@@ -46,6 +46,31 @@ nav_order: 4
 
 ---
 
+## Failed to load dll from the list. 或者 WaitForSingleObject failed! Return value = 258, Error = 0
+中文意思是**从列表中加载dll文件失败**
+> 常见于学习版steam无缝联机
+
+![dll文件未找到.png](/assets/images/dll文件未找到.png)
+
+找到游戏目录中的dlllist.txt文件,并打开
+
+![dlllist文件.png](/assets/images/dlllist文件.png)
+![dlllist文件内容.png](/assets/images/dlllist文件内容.png)
+
+确保文件中涉及到的dll文件都存在，最常见的就是`OnlineFix64.dll`文件被杀毒软件删了，
+需要加一下白名单，把这个文件重新拖进来，不知道如何操作可以参考这个空降链接：
+[法魂mod兼容无缝教程(含正版学习版)-授人以渔 【精准空降到 45:17】](https://www.bilibili.com/video/BV1cLieYtE5d/?t=2717)
+
+我这里只有一个dll，所以只需要确认这一个dll文件是否存在，如果你有多个，需要依次确认是否存在
+
+还有一点就是**不要有空行**，空行也会被认为是一个dll文件，导致报错
+
+![dlllist文件空行示范.png](/assets/images/dlllist文件空行示范.png)
+❌错误示范
+
+
+---
+
 ## Steam datagram relay error: k_ESteamNetworkingAvailability_Unknown
 
 大概意思是连接不上steam网络
