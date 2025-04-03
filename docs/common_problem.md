@@ -15,7 +15,8 @@ nav_order: 4
 ---
 
 ## Steam is not launched.
-{: .note }
+
+{: .note-title }
 > 中文意思是
 > 
 > steam未启动
@@ -30,13 +31,13 @@ nav_order: 4
 ---
 
 ## Please enter a session password in your settings file.
-{: .note }
+
+{: .note-title }
 > 中文意思是
 > 
 > 请在配置文件中设置一个房间密码（会话密码）
 
-{: .new }
-这个是无缝联机mod的提示，提示你需要设置一个房间密码才能启动游戏
+这个是无缝联机mod的提示，提示你需要设置一个房间密码才能启动游戏，在无缝的配置文件`ersc_settings.ini`里设置一下房间密码就行了
 
 ![无缝没设置密码.png](/assets/images/无缝没设置密码.png)
 
@@ -45,33 +46,35 @@ nav_order: 4
 ---
 
 ## This version of seamless co-op (1.x.x) is depreciated and requires an update.
-{: .note }
+
+{: .note-title }
 > 中文意思是
 > 
 > 当前版本的无缝联机mod已经被弃用，需要更新到最新版
 
 ![无缝不是最新版.png](/assets/images/无缝不是最新版.png)
 
-如图所示 图片中出现的1.7.2就是代表当前版本
+如图所示 图片中出现的1.7.2就是代表当前版本，需要下载最新版覆盖进去就行了
 
 下载最新版无缝参考：[安装无缝联机]({{site.baseurl}}/docs/upgrade/esrc/)
 
 ---
 
 ## Failed to load dll from the list. 或者 WaitForSingleObject failed! Return value = 258, Error = 0
-{: .note }
+
+{: .note-title }
 > 中文意思是
 > 
 > 从列表中加载dll文件失败
 
-{: .note }
-常见于学习版steam无缝联机
+> 常见于学习版steam无缝联机
 
 ![dll文件未找到.png](/assets/images/dll文件未找到.png)
 
 找到游戏目录中的dlllist.txt文件,并打开
 
 ![dlllist文件.png](/assets/images/dlllist文件.png)
+
 ![dlllist文件内容.png](/assets/images/dlllist文件内容.png)
 
 确保文件中涉及到的dll文件都存在，最常见的就是`OnlineFix64.dll`文件被杀毒软件删了，
@@ -97,6 +100,7 @@ nav_order: 4
 ---
 
 ## Steam datagram relay error: k_ESteamNetworkingAvailability_Unknown
+
 {: .note }
 大概意思是连接不上steam网络
 
@@ -108,7 +112,8 @@ nav_order: 4
 1. 用的加速器不行，比如steam++（有概率不行，最好换别的加速），我一般UU，很多加速器加速steam都是免费的
 2. 你是学习版，但是没有打联机补丁，直接安装了无缝联机mod，使用道具也会提示这个，学习版怎么无缝联机参考：[https://www.bilibili.com/video/BV1Ni421v71g](https://www.bilibili.com/video/BV1Ni421v71g){:target="_blank"}
 3. 你是学习版局域网联机，不建议使用，参考第二条的教程换成学习版steam联机
-{: .note }
+
+{: .note-title }
 > 怎么分辨我是不是学习版steam无缝联机？
 > 
 > 如果运行游戏的时候，steam库里面有一个叫`spacewar`的游戏在运行，那就是，否则不是
