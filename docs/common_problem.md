@@ -31,7 +31,7 @@ nav_order: 4
 
 ![无缝没设置密码.png](/assets/images/无缝没设置密码.png)
 
-设置密码步骤参考：[安装无缝联机]({% link /docs/upgrade/esrc.md %})
+设置密码步骤参考：[安装无缝联机]({% link upgrade/esrc.md %})
 
 ---
 
