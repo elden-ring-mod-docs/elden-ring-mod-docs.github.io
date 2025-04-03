@@ -37,6 +37,9 @@ nav_order: 3
 
 ## Steam datagram relay error: k_ESteamNetworkingAvailability_Unknown
 
+大概意思是连接不上steam网络
+> 常见于正版无缝联机和学习版steam无缝联机玩家
+
 ![steamDB未知.jpg](/assets/images/steamDB未知.jpg)
 
 正常的解决方案就是加速steam，如果解决不了，要么是网络不好（没人给我反馈过这种情况），要么就是别的问题，比如：
