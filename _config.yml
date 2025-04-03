@@ -128,6 +128,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 nav_external_links:
   - title: 文档Github仓库地址
     url: https://github.com/elden-ring-mod-docs/elden-ring-mod-docs.github.io
+  - title: 加入交流群(企鹅群)
+    url: https://qm.qq.com/cgi-bin/qm/qr?k=WBK-Flz-ALoccR0pMhYOM_hlpSBo2vSo&jump_from=webapi&authKey=4M6ow6OeO1n4FNyKIl2qGCRocuPQfjyVCP22yx5VJER3oUQ55x+KCsBKv2BkMhI1
 
 nav_external_links_new_tab: true
 # Show navigation error report
