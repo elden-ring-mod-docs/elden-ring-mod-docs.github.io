@@ -113,6 +113,8 @@ heading_anchors: true
 aux_links:
   "作者B站":
     - "https://space.bilibili.com/255459684"
+  "test":
+    - "https://space.bilibili.com/255459684"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -127,8 +129,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
-  - title: Just the Docs on GitHub
-    url: https://github.com/just-the-docs/just-the-docs
+  - title: 文档Github仓库地址
+    url: https://github.com/elden-ring-mod-docs/elden-ring-mod-docs.github.io
 
 # Show navigation error report
 nav_error_report: true # default is false/nil.
