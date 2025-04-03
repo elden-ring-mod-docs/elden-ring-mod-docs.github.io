@@ -3,14 +3,14 @@ title: 安装mod之前需要确认的事项
 nav_order: 2
 ---
 
-# 安装mod之前需要确认的事项
-{: .no_toc }
-
-## 目录
-{: .no_toc .text-delta }
-
+<details open markdown="block">
+  <summary>
+    目录
+  </summary>
+  {: .text-delta }
 1. TOC
-   {:toc}
+{:toc}
+</details>
 
 ---
 
