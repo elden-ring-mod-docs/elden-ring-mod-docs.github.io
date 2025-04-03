@@ -2,6 +2,8 @@
 title: 安装mod之前需要确认的事项
 nav_order: 2
 ---
+# 安装mod之前需要确认的事项
+{: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
