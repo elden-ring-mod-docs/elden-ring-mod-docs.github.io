@@ -20,7 +20,7 @@ nav_order: 3
 
 ![steam未启动.png](/assets/images/steam未启动.png)
 
-1. 如果steam没有启动，那就启动steam
+1. 如果steam没有启动，那就启动steam，再启动游戏
 1. 如果已经启动steam了，那就右键管理员启动游戏
 
 ---
