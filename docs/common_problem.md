@@ -71,7 +71,7 @@ nav_order: 4
 
 ![dll文件未找到.png](/assets/images/dll文件未找到.png)
 
-找到游戏目录中的dlllist.txt文件,并打开
+找到游戏目录中的`dlllist.txt`文件,并打开
 
 ![dlllist文件.png](/assets/images/dlllist文件.png)
 
