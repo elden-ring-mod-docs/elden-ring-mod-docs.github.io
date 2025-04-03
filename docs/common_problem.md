@@ -15,6 +15,7 @@ nav_order: 3
 ---
 
 ## steam is not launched
+中文意思是**steam未启动**
 
 ![steam未启动.png](/assets/images/steam未启动.png)
 
