@@ -55,5 +55,5 @@ nav_order: 4
 
 正常的解决方案就是加速steam，如果解决不了，要么是网络不好（没人给我反馈过这种情况），要么就是别的问题，比如：
 1. 用的加速器不行，比如steam++（有概率不行，最好换别的加速），我一般UU，很多加速器加速steam都是免费的
-2. 你是学习版，但是没有打联机补丁，直接安装了无缝联机mod，使用道具也会提示这个，学习版怎么无缝联机参考：[https://www.bilibili.com/video/BV1Ni421v71g](https://www.bilibili.com/video/BV1Ni421v71g)
+2. 你是学习版，但是没有打联机补丁，直接安装了无缝联机mod，使用道具也会提示这个，学习版怎么无缝联机参考：[https://www.bilibili.com/video/BV1Ni421v71g](https://www.bilibili.com/video/BV1Ni421v71g){:target="_blank"}
 3. 你是学习版局域网联机，不建议使用，参考第二条的教程换成学习版steam联机
