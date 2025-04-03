@@ -14,7 +14,7 @@ nav_order: 4
 
 ---
 
-## Steam is not launched
+## Steam is not launched.
 中文意思是**steam未启动**
 > 常见于学习版steam无缝联机玩家
 
@@ -25,7 +25,7 @@ nav_order: 4
 
 ---
 
-## Please enter a session password in your settings file
+## Please enter a session password in your settings file.
 中文意思是**请在配置文件中设置一个房间密码（会话密码）**
 > 这个是无缝联机mod的提示，提示你需要设置一个房间密码才能启动游戏
 
@@ -39,6 +39,8 @@ nav_order: 4
 中文意思是**当前版本的无缝联机mod已经被弃用，需要更新到最新版**
 
 ![无缝不是最新版.png](/assets/images/无缝不是最新版.png)
+
+如图所示 图片中出现的1.7.2就是代表当前版本
 
 [esrc.md](/docs/upgrade/esrc.md)
 
