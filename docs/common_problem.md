@@ -88,6 +88,8 @@ nav_order: 4
 ![dlllist文件空行示范.png](/assets/images/dlllist文件空行示范.png)
 ❌错误示范
 
+如果你没有空行，涉及的dll文件也都存在，那就把涉及到的dll文件再重新覆盖一遍
+
 ---
 
 # 打上无缝联机mod之后手柄没有反应？
