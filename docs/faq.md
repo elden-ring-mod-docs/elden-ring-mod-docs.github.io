@@ -44,5 +44,5 @@ nav_order: 5
 
 以长串数字命名的文件夹就是steamid，再点进去就是游戏存档了，扩展名sl2的是原版游戏存档，co2是无缝存档
 
-[存档问题详解](https://www.bilibili.com/video/BV1CkcDegEE1){:target="_blank"}
+相关视频：[存档问题详解](https://www.bilibili.com/video/BV1CkcDegEE1){:target="_blank"}
 
