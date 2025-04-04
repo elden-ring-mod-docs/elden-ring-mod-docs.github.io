@@ -33,7 +33,8 @@ parent: 萌新进阶之路
 
 N网地址会有mod详细介绍及说明，看不懂英文的话可以翻译着看
 
-压缩包解压出来之后的文件结构👇
+## 无缝联机mod目录结构说明
+
 ```yaml
 ├─ ersc_launcher.exe #无缝自带启动器
 └─ SeamlessCoop/

@@ -14,7 +14,7 @@ nav_order: 4
 
 ---
 
-## Steam is not launched.
+# Steam is not launched.
 
 {: .note-title }
 > 中文意思是
@@ -30,7 +30,7 @@ nav_order: 4
 
 ---
 
-## Please enter a session password in your settings file.
+# Please enter a session password in your settings file.
 
 {: .note-title }
 > 中文意思是
@@ -45,7 +45,7 @@ nav_order: 4
 
 ---
 
-## This version of seamless co-op (1.x.x) is depreciated and requires an update.
+# This version of seamless co-op (1.x.x) is depreciated and requires an update.
 
 {: .note-title }
 > 中文意思是
@@ -60,7 +60,7 @@ nav_order: 4
 
 ---
 
-## Failed to load dll from the list. 或者 WaitForSingleObject failed! Return value = 258, Error = 0
+# Failed to load dll from the list. 或者 WaitForSingleObject failed! Return value = 258, Error = 0
 
 {: .note-title }
 > 中文意思是
@@ -90,7 +90,7 @@ nav_order: 4
 
 ---
 
-## 打上无缝联机mod之后手柄没有反应？
+# 打上无缝联机mod之后手柄没有反应？
 
 > 常见于学习版steam无缝联机
 
@@ -99,7 +99,7 @@ nav_order: 4
 
 ---
 
-## Steam datagram relay error: k_ESteamNetworkingAvailability_Unknown
+# Steam datagram relay error: k_ESteamNetworkingAvailability_Unknown
 
 {: .note-title }
 > 大概意思是
