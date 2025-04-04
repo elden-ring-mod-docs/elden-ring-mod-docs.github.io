@@ -43,6 +43,16 @@ nav_order: 4
 
 ---
 
+# Failed to find "SeamlessCoop//ersc.dll" (Error = 2)
+
+![ersc_dll文件丢失.png](/assets/images/ersc_dll文件丢失.png)
+
+如图所示，你这个文件丢了，这个是无缝联机mod的其中一个文件，找一下放进去就行了
+
+参考：[安装无缝联机]({{site.baseurl}}/docs/upgrade/esrc/)
+
+---
+
 # Please enter a session password in your settings file.
 
 {: .note-title }
