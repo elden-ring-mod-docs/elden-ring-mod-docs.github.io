@@ -32,3 +32,13 @@ nav_order: 5
 ### 无缝使用修改器会被封号吗
 不会，无缝的存档是独立的且不访问官方服务器
 
+---
+
+### 游戏的存档在哪
+随便打开一个资源管理器，然后输入`%appdata%\EldenRing`，然后回车
+![存档路径.png](/assets/images/存档路径.png)
+
+以长串数字命名的文件夹就是steamid，再点进去就是游戏存档了，扩展名sl2的是原版游戏存档，co2是无缝存档
+
+[存档问题详解](https://www.bilibili.com/video/BV1CkcDegEE1){:target="_blank"}
+
