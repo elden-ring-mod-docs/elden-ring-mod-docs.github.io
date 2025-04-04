@@ -137,6 +137,8 @@ mod_language_override = schinese
 
 ## 大功告成 🎉🎉🎉
 
+> 开始游戏之前使用加速器加速一下steam，如果你不跟人联机，那不用加速
+
 可以双击`ersc_launcher.exe`启动游戏了
 
 你可能需要：[常见问题]({{site.baseurl}}/docs/common_problem/)
