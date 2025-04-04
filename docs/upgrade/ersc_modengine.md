@@ -149,8 +149,8 @@ enabled = false
 
 这里用的是相对路径，相对于谁呢？相对于游戏目录里的`modengine2_launcher.exe`，当然你也可以填绝对路径，看你喜欢
 
-## 大功告成
+## 大功告成 🎉🎉🎉
 
-现在就可以使用`modengine2_launcher.exe`启动游戏了
+可以双击`modengine2_launcher.exe`启动游戏了
 
 你可能需要：[常见问题]({{site.baseurl}}/docs/common_problem/)

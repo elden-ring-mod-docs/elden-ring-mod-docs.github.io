@@ -135,7 +135,7 @@ mod_language_override = schinese
 
 百度网盘：[EldenRing_Fix_Repair_Steam_Generic.zip](https://pan.baidu.com/s/1mtWwaLfpjhVIhBy5NQUDMA?pwd=my8q){:target="_blank"}
 
-## 大功告成
+## 大功告成 🎉🎉🎉
 
 可以双击`ersc_launcher.exe`启动游戏了
 
