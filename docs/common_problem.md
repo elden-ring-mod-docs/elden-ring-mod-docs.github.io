@@ -30,6 +30,19 @@ nav_order: 4
 
 ---
 
+# Unsupported SteamUser version! SteamUser023
+> 常见于学习版steam无缝联机
+
+![不支持的steam用户版本.png](/assets/images/不支持的steam用户版本.png)
+
+出现这个情况是因为你游戏目录里的`OnlineFix64.dll`这个文件不是联机补丁里面的(不知道哪搞来的)，正确的联机补丁这个文件应该是`11,582 KB`
+
+解决方案就是找到联机补丁里的这个文件重新覆盖进去
+
+参考：[安装无缝联机，如果你是学习版需要额外打一个联机补丁]({{site.baseurl}}/docs/upgrade/esrc/#如果你是学习版需要额外打一个联机补丁)
+
+---
+
 # Please enter a session password in your settings file.
 
 {: .note-title }
@@ -98,6 +111,16 @@ nav_order: 4
 
 找到steam库中的`spacewar`，右键-属性-控制器-禁用steam输入，如果还不行，就在`控制器配置器`里选一个steam映射
 ![禁用steam输入.png](/assets/images/禁用steam输入.png)
+
+---
+
+# 游戏版本与保存数据不相符 请结束游戏，从Steam客户端更新版本后，重新启动游戏
+
+![游戏版本与保存数据不相符.jpg](/assets/images/游戏版本与保存数据不相符.jpg)
+
+这个提示是因为存档的版本高于游戏的版本，解决方案有两个，二选一即可
+1. 升级游戏版本，高于存档版本就可以，不确定存档是哪个版本的话，就把游戏升级到最新版
+2. 使用存档转换器，把自己的存档转成自己的存档，但是存档的版本会降级，降到大概刚发售时的版本，这样的话无论如何你的存档都不会高于你的游戏版本
 
 ---
 
