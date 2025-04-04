@@ -144,8 +144,7 @@ enabled = false
 > 我这里用的是第三方的文本编辑器，会有语法高亮 [下载地址](https://rizonesoft.com/downloads/notepad3/){:target="_blank"}
 
 {: .highlight }
-1. 修改完记得保存
-2. 一定要是英文符号
+一定要是英文符号，修改完记得保存
 
 这里用的是相对路径，相对于谁呢？相对于游戏目录里的`modengine2_launcher.exe`，当然你也可以填绝对路径，看你喜欢
 
