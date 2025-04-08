@@ -138,10 +138,16 @@ mod_language_override = schinese
 ![学习版steam联机游戏目录.png](/assets/images/学习版steam联机游戏目录.png)
 
 
-## 大功告成 🎉🎉🎉
+# 大功告成 🎉🎉🎉
 
 > 开始游戏之前使用加速器加速一下steam，如果你不跟人联机，那不用加速
 
 可以双击`ersc_launcher.exe`启动游戏了
 
 你可能需要：[常见问题]({{site.baseurl}}/docs/common_problem/)
+
+# 如何确定我是不是安装成功了
+
+启动游戏之后，标题页面右下角如果显示无缝联机mod的版本号，就是安装成功了
+
+![标题页面无缝版本号.png](/assets/images/标题页面无缝版本号.png)
