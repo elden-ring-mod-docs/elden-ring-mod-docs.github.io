@@ -1,0 +1,37 @@
+---
+title: 主页
+layout: home
+nav_order: 1
+description: "主页说明"
+permalink: /
+---
+
+<details open markdown="block">
+  <summary>
+    目录
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+
+## 介绍
+
+安装mod教程和安装过程中遇到的问题及解决方案
+
+[在Github查看源码][elden ring mod decs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+## 贡献者
+
+<ul class="list-style-none">
+{% for contributor in site.github.contributors %}
+  <li class="d-inline-block mr-1">
+     <a target="_blank" href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"></a>
+  </li>
+{% endfor %}
+</ul>
+
+[elden ring mod decs repo]: https://github.com/elden-ring-mod-docs/elden-ring-mod-docs.github.io
