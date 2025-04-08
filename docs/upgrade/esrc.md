@@ -151,3 +151,21 @@ mod_language_override = schinese
 启动游戏之后，标题页面右下角如果显示无缝联机mod的版本号，就是安装成功了
 
 ![标题页面无缝版本号.png](/assets/images/标题页面无缝版本号.png)
+
+# mod道具
+
+进入游戏后坐火可以获得mod道具
+
+![袖珍大壶.png](/assets/images/袖珍大壶.png) 开启房间的道具，房主使用
+
+![玛丽卡雕像.png](/assets/images/玛丽卡雕像.png) 加入房间的道具，非房主玩家使用
+
+![挑战者之针.png](/assets/images/挑战者之针.png) 入侵道具，入侵别的无缝联机玩家
+
+![离别迷雾.png](/assets/images/离别迷雾.png) 房主使用的话是关闭房间，非房主玩家使用的话是离开房间
+
+![判官法典.png](/assets/images/判官法典.png) 修改玩家之前的规则的道具，可以开友伤来PVP，也可以分队伍PVP
+
+![卢恩之酒.png](/assets/images/卢恩之酒.png) 花费卢恩获得和卢恩弯弧一样的效果，也就是激活大卢恩
+
+![干缩手指.png](/assets/images/干缩手指.png) 吸引更多的入侵者入侵你
