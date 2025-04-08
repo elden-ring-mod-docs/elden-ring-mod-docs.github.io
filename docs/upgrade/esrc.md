@@ -152,9 +152,9 @@ mod_language_override = schinese
 
 ![标题页面无缝版本号.png](/assets/images/标题页面无缝版本号.png)
 
-# mod道具
+# mod道具说明
 
-进入游戏后坐火可以获得mod道具
+进入游戏后**坐火**可以获得mod道具
 
 ![袖珍大壶.png](/assets/images/袖珍大壶.png) 开启房间的道具，房主使用
 
