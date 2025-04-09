@@ -83,6 +83,21 @@ nav_order: 4
 
 ---
 
+# The mod may not be compatible with the installed game version
+
+{: .note-title }
+> 大概意思是
+> 
+> 当前版本的无缝联机mod不兼容当前版本的游戏
+
+![无缝不兼容当前游戏版本.png](/assets/images/无缝不兼容当前游戏版本.png)
+
+一般情况下是你的无缝联机mod版本不兼容你的游戏版本，要么换无缝，要么换游戏版本，让这两个兼容就行了，最简单的就是用最新版的无缝和最新版的游戏就好了
+
+如果你确定你的无缝和游戏是兼容的版本，那就验证一下游戏完整性就好了
+
+---
+
 # Failed to load dll from the list. 或者 WaitForSingleObject failed! Return value = 258, Error = 0
 
 {: .note-title }
