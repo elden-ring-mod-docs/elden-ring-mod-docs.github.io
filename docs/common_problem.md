@@ -180,7 +180,7 @@ nav_order: 4
 >
 > 没有找到房间
 
-![未找到房间.png](/assets/images/未找到房间.png)
+<img alt="未找到房间.png" height="500px" src="/assets/images/未找到房间.png"/>
 
 你和你的小伙伴想联机到一起，需要满足下列条件：
 1. 无缝联机密码一样(注意等于号有没有空格，修改完配置文件有没有保存)
