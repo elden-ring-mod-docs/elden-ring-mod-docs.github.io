@@ -153,6 +153,18 @@ nav_order: 4
 
 ---
 
+# 保存数据损毁，游戏进度保存失败
+
+![保存数据损毁.png](/assets/images/保存数据损毁.png)
+
+> **保存数据**指的就是存档
+
+出现这个提示主要有两种情况：
+1. 你打的mod跟游戏版本不兼容，找与游戏版本兼容的mod打进去
+2. 意料之外的情况，可以把存档挪走试试 [游戏的存档在哪]({{site.baseurl}}/docs/faq/#游戏的存档在哪)
+
+---
+
 # Steam datagram relay error: k_ESteamNetworkingAvailability_Unknown
 
 {: .note-title }
