@@ -13,5 +13,15 @@ parent: (大成)利用mod引擎来整合无缝和其他mod
 {:toc}
 </details>
 
+# 视频教程
+
+# 图文教程
+
+## 下载ERR
+
+[ELDEN RING Reforged N网地址](https://www.nexusmods.com/eldenring/mods/541){:target="_blank"}
+
+[简体中文补丁 N网地址](https://www.nexusmods.com/eldenring/mods/7481){:target="_blank"}
+
 ---
 
