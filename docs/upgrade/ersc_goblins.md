@@ -13,6 +13,8 @@ parent: (大成)利用mod引擎来整合无缝和其他mod
 {:toc}
 </details>
 
+---
+
 # 视频教程
 
 [无缝兼容哥布林mod教程](https://www.bilibili.com/video/BV1eiNhe7EZr){:target="_blank"}

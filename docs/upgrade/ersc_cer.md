@@ -13,6 +13,8 @@ parent: (大成)利用mod引擎来整合无缝和其他mod
 {:toc}
 </details>
 
+---
+
 # 视频教程
 
 [法魂mod兼容无缝教程(含正版学习版)-授人以渔](https://www.bilibili.com/video/BV1cLieYtE5d){:target="_blank"}
