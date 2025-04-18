@@ -67,7 +67,7 @@ auto_upgrade_weapons = true
 
 你可能需要：[常见问题]({{site.baseurl}}/docs/common_problem/)
 
-另外，这个光荣商人是兼容法魂的，也就是说可以通过光荣商人获取法魂mod内的物品
+另外，这个光荣商人是**兼容法魂**的，也就是说可以通过光荣商人获取法魂mod内的物品
 
 ## 游戏内mod使用说明
 
