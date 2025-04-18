@@ -169,3 +169,17 @@ mod_language_override = schinese
 ![卢恩之酒.png](/assets/images/卢恩之酒.png) 花费卢恩获得和卢恩弯弧一样的效果，也就是激活大卢恩
 
 ![干缩手指.png](/assets/images/干缩手指.png) 吸引更多的入侵者入侵你
+
+# debuff效果展示(坐火可以消除debuff)
+
+![腐败精华衰败.png](/assets/images/腐败精华衰败.png)
+
+![腐败精华憔悴.png](/assets/images/腐败精华憔悴.png)
+
+![腐败精华绝望.png](/assets/images/腐败精华绝望.png)
+
+![腐败精华无望.png](/assets/images/腐败精华无望.png)
+
+![腐败精华脆弱.png](/assets/images/腐败精华脆弱.png)
+
+
