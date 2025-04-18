@@ -67,6 +67,8 @@ auto_upgrade_weapons = true
 
 你可能需要：[常见问题]({{site.baseurl}}/docs/common_problem/)
 
+另外，这个光荣商人是兼容法魂的，也就是说可以通过光荣商人获取法魂mod内的物品
+
 ## 游戏内mod使用说明
 
 要使用mod的功能需要到艾蕾教堂找咖列，也就是那个商人，跟他对话就可以看到对话菜单变了
