@@ -1,6 +1,6 @@
 ---
 title: 无缝+哥布林
-nav_order: 3
+nav_order: 4
 parent: (大成)利用mod引擎来整合无缝和其他mod
 ---
 
