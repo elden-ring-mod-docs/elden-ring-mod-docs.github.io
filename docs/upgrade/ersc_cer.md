@@ -121,7 +121,7 @@ parent: (大成)利用mod引擎来整合无缝和其他mod
 
 ![法魂游戏目录.png](/assets/images/法魂游戏目录.png)
 
-那它还有一些dll文件怎么办呢？我们打开mod引擎的配置文件，可以发现它已经帮我们配置好了，包括无缝的dll它也帮我们配置好了
+那它还有一些dll文件怎么办呢？我们打开mod引擎的配置文件`config_eldenring.toml`，可以发现它已经帮我们配置好了，包括无缝的dll它也帮我们配置好了
 
 ![法魂mod引擎配置.png](/assets/images/法魂mod引擎配置.png)
 
