@@ -1,5 +1,5 @@
 ---
-title: 无缝+韧性条
+title: 无缝+韧性条显示
 nav_order: 3
 parent: (大成)利用mod引擎来整合无缝和其他mod
 ---
@@ -17,13 +17,13 @@ parent: (大成)利用mod引擎来整合无缝和其他mod
 
 # 图文教程
 
-## 下载韧性条mod
+## 下载韧性条显示mod
 
-[韧性条mod Github地址](https://github.com/Mordrog/EldenRing-PostureBarMod/releases){:target="_blank"}
+[韧性条显示mod Github地址](https://github.com/Mordrog/EldenRing-PostureBarMod/releases){:target="_blank"}
 
-[韧性条mod N网地址](https://www.nexusmods.com/eldenring/mods/3405){:target="_blank"}
+[韧性条显示mod N网地址](https://www.nexusmods.com/eldenring/mods/3405){:target="_blank"}
 
-## 韧性条mod文件说明
+## 韧性条显示mod文件说明
 
 ```yaml
 ├─ PostureBarResources/ # 资源文件夹
@@ -36,7 +36,7 @@ parent: (大成)利用mod引擎来整合无缝和其他mod
 1. 把`PostureBarModConfig - SekiroBar.ini`文件内的内容复制到`PostureBarModConfig.ini`中并保存
 2. 将`PostureBarModConfig - SekiroBar.ini`重命名为`PostureBarModConfig.ini`
 
-## 安装韧性条mod
+## 安装韧性条显示mod
 
 将文件复制到游戏目录
 
@@ -46,7 +46,7 @@ parent: (大成)利用mod引擎来整合无缝和其他mod
 
 ![韧性条mod引擎配置.png](/assets/images/韧性条mod引擎配置.png)
 
-因为要兼容无缝，所以既要有无缝的dll文件，又要有韧性条mod的dll文件，在无缝那一行尾部加一个英文的逗号，用来分隔两个路径
+因为要兼容无缝，所以既要有无缝的dll文件，又要有韧性条显示mod的dll文件，在无缝那一行尾部加一个英文的逗号，用来分隔两个路径
 
 注意这个配置文件中的标点符号都要是英文的，修改完记得保存
 
