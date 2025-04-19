@@ -62,6 +62,7 @@ auto_upgrade_weapons = true
 ## 大功告成 🎉🎉🎉
 
 > 开始游戏之前使用加速器加速一下steam，如果你不跟人联机，那不用加速
+> 这个mod跟人联机的话不要求所有人都安装，也就是可以就你自己装，不影响联机
 
 可以双击`modengine2_launcher.exe`启动游戏了
 
