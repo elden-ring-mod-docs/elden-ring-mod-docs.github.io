@@ -46,7 +46,7 @@ parent: (大成)利用mod引擎来整合无缝和其他mod
 ├─ menu/
 ├─ msg/
 │    ├─ engus/
-│    └─ zhocn/ # 简体中文
+│    └─ zhocn/ # 刚刚放进去的简体中文补丁
 ├─ script/
 ├─ Readme.txt
 └─ regulation.bin
@@ -66,10 +66,14 @@ parent: (大成)利用mod引擎来整合无缝和其他mod
 
 可以双击`modengine2_launcher.exe`启动游戏了
 
-你可能需要：[常见问题]({{site.baseurl}}/docs/common_problem/)
+你可能需要：
+
+[常见问题]({{site.baseurl}}/docs/common_problem/)
+
+[mod引擎闪退解决方案合集](https://www.bilibili.com/video/BV1aNKTeLEaz/){:target="_blank"}
 
 
-## 地图上没有任何变化?
+# 地图上没有任何变化?
 
 这个mod在某个版本之后**默认地图上什么都不显示**，需要到篝火处，有个`配置哥布林地图`选项
 

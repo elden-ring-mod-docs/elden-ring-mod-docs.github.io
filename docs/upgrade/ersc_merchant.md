@@ -66,7 +66,11 @@ auto_upgrade_weapons = true
 
 可以双击`modengine2_launcher.exe`启动游戏了
 
-你可能需要：[常见问题]({{site.baseurl}}/docs/common_problem/)
+你可能需要：
+
+[常见问题]({{site.baseurl}}/docs/common_problem/)
+
+[mod引擎闪退解决方案合集](https://www.bilibili.com/video/BV1aNKTeLEaz/){:target="_blank"}
 
 另外，这个光荣商人是**兼容法魂**的，也就是说可以通过光荣商人获取法魂mod内的物品
 

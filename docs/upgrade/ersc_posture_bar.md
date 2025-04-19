@@ -57,7 +57,13 @@ parent: (大成)利用mod引擎来整合无缝和其他mod
 
 可以双击`modengine2_launcher.exe`启动游戏了
 
-你可能需要：[常见问题]({{site.baseurl}}/docs/common_problem/)
+
+
+你可能需要：
+
+[常见问题]({{site.baseurl}}/docs/common_problem/)
+
+[mod引擎闪退解决方案合集](https://www.bilibili.com/video/BV1aNKTeLEaz/){:target="_blank"}
 
 
 ## 效果展示
