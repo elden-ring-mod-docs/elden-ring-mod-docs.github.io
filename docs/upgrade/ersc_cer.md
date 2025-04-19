@@ -27,7 +27,7 @@ parent: (大成)利用mod引擎来整合无缝和其他mod
 
 [简体中文补丁 N网地址](https://www.nexusmods.com/eldenring/mods/3511){:target="_blank"}
 
-夸克网盘：[「法魂2.2.3中文版（游戏版本1.16）.zip」](https://pan.quark.cn/s/708d42e573de)
+夸克网盘：[「法魂2.2.3中文版（游戏版本1.16）.zip」](https://pan.quark.cn/s/708d42e573de){:target="_blank"}
 
 ## 法魂mod文件说明
 
