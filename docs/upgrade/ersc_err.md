@@ -17,6 +17,8 @@ parent: (大成)利用mod引擎来整合无缝和其他mod
 
 # 视频教程
 
+[ERR整合无缝及其他dll mod教程](https://www.bilibili.com/video/BV1AVGzzcE1v/){:target="_blank"}
+
 # 图文教程
 
 ## 下载ERR
