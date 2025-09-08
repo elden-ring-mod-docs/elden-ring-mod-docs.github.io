@@ -47,7 +47,9 @@ nav_order: 4
 
 ![ersc_dll文件丢失.png](/assets/images/ersc_dll文件丢失.png)
 
-如图所示，你这个文件丢了，这个是无缝联机mod的其中一个文件，找一下放进去就行了
+如图所示，提示是你这个文件找不到,这个是无缝联机mod的其中一个文件
+1. 如果你很确定你有这个文件，那就右键管理员启动游戏
+2. 如果确实没这个文件，找一下无缝mod覆盖一下
 
 参考：[安装无缝联机]({{site.baseurl}}/docs/upgrade/esrc/)
 
@@ -160,6 +162,7 @@ nav_order: 4
 > **保存数据**指的就是存档
 
 出现这个提示主要有下面这几种情况：
+1. 先在steam里检查文件完整性，如果没有好，再往下看(学习版就重新解压游戏文件覆盖一下)
 1. 你打的mod跟游戏版本不兼容，找与游戏版本兼容的mod打进去
 2. 比如法魂这种，既有游戏资产文件，又有dll文件，如果你只是把游戏资产文件放到mod引擎的mod文件夹下了，但是没有配置dll文件路径，也会出现这种弹窗
 2. 文件真的损坏了，可以使用存档转换器转换一下试试，把自己的存档转成自己的存档，期间可能会修复存档损坏的问题，相关视频：[存档问题详解](https://www.bilibili.com/video/BV1CkcDegEE1){:target="_blank"}
@@ -167,26 +170,28 @@ nav_order: 4
 
 ---
 
-# Steam datagram relay error: k_ESteamNetworkingAvailability_Unknown
-
+# Steam datagram relay error: k_ESteamNetworkingAvailability_Failed
 {: .note-title }
 > 大概意思是
 >
 > 连接不上steam网络
 
-> 常见于正版无缝联机和学习版steam无缝联机玩家，旧版的学习版局域网玩家也会遇到
+> 图先欠着
+
+加速steam，然后重启游戏，如果解决不了，要么是网络不好（没人给我反馈过这种情况），要么就是别的问题，比如：
+1. 用的加速器不行，比如steam++（有概率不行，最好换别的加速），我一般UU，很多加速器加速steam都是免费的
+
+---
+
+# Steam datagram relay error: k_ESteamNetworkingAvailability_Unknown
 
 ![steamDB未知.jpg](/assets/images/steamDB未知.jpg)
 
-正常的解决方案就是加速steam，如果解决不了，要么是网络不好（没人给我反馈过这种情况），要么就是别的问题，比如：
-1. 你是学习版，但是游戏运行的时候steam里面没有一个叫spacewar的游戏在运行，安装了无缝联机mod，使用道具也会提示这个，学习版怎么无缝联机参考：[安装无缝联机]({{site.baseurl}}/docs/upgrade/esrc/)
-1. 用的加速器不行，比如steam++（有概率不行，最好换别的加速），我一般UU，很多加速器加速steam都是免费的
-1. 你是学习版局域网联机，不建议使用，参考第二条的教程换成学习版steam联机
+> 常见于学习版steam无缝联机玩家
 
-{: .note-title }
-> 怎么分辨我是不是学习版steam无缝联机？
-> 
-> 如果运行游戏的时候，steam库里面有一个叫`spacewar`的游戏在运行，那就是，否则不是
+学习版使用无缝直接安装无缝还不够，还需要打上学习版联机补丁
+
+参考：[安装无缝联机，如果你是学习版需要额外打一个联机补丁]({{site.baseurl}}/docs/upgrade/esrc/#如果你是学习版需要额外打一个联机补丁)
 
 ---
 
